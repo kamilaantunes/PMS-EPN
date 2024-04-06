@@ -373,7 +373,7 @@
               <children xmi:type="notation:DecorationNode" xmi:id="_AqvYQOh4Ee6kD95FqzKcTw" type="5024">
                 <layoutConstraint xmi:type="notation:Location" xmi:id="_AqvYQeh4Ee6kD95FqzKcTw" y="5"/>
               </children>
-              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_AqvYQuh4Ee6kD95FqzKcTw" x="60" y="68"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_AqvYQuh4Ee6kD95FqzKcTw" x="61" y="39"/>
             </children>
             <children xmi:type="notation:Shape" xmi:id="_BmPiwPGTEe6h6KHWWuGKWQ" type="3005" element="_BmOUoPGTEe6h6KHWWuGKWQ" fontName="Segoe UI" fillColor="14334392" lineColor="10710316">
               <children xmi:type="notation:DecorationNode" xmi:id="_BmPiwvGTEe6h6KHWWuGKWQ" type="5005"/>
